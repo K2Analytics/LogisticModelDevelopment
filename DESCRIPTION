@@ -3,8 +3,8 @@ Title: Create dynamic logistic regression model. Please ensure the target variab
 Version: 0.0.1.1000
 Authors@R: person("Jishnu", "S", email = "jishnu.s@k2analytics.co.in", role = c("aut", "cre"))
 Description: Create dynamic logistic regression model. Note- please download woe package from GitHub using "install_github('riv','tomasgreif')". After installing the correct package if the UI closes automatically please restart the rstudio.
-Depends: R (>= 3.3.0),shiny,shinythemes,DT,devtools,woe,Hmisc,data.table,car,sqldf,ROCR,ineq,pryr,scales,plotly,berryFunctions,rhandsontable,shinydashboard
-Imports: shiny,shinythemes,DT,devtools,woe,Hmisc,data.table,car,sqldf,ROCR,ineq,pryr,scales,plotly,berryFunctions,rhandsontable,shinydashboard
+Depends: R (>= 3.3.0),shiny,shinythemes,DT,devtools,woe,Hmisc,data.table,car,sqldf,ROCR,ineq,pryr,scales,plotly,berryFunctions,rhandsontable,shinydashboard,shinycssloaders
+Imports: shiny,shinythemes,DT,devtools,woe,Hmisc,data.table,car,sqldf,ROCR,ineq,pryr,scales,plotly,berryFunctions,rhandsontable,shinydashboard,shinycssloaders
 License: MIT
 Encoding: UTF-8
 LazyData: true
